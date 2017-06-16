@@ -1,0 +1,22 @@
+{
+  "name": "kirankumarkyasa.github.io",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kirankumarkyasa/kirankumarkyasa.github.io.git"
+  },
+  "author": "kiran kumar kyasa",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/kirankumarkyasa/kirankumarkyasa.github.io/issues"
+  },
+  "dependencies": {
+    "react": "~15.6.1",
+    "react-dom": "~15.6.1"
+  }
+}
